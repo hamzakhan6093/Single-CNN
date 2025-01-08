@@ -48,9 +48,8 @@ The CNN model demonstrates high accuracy in image classification tasks, achievin
 
  How to Use
 1. Clone the repository and navigate to the project directory.
-2. Install the required dependencies using the provided `requirements.txt` file.
-3. Run the script to train the CNN model on your dataset.
-4. Test the model on new images to observe predictions and results.
+2. Run the script to train the CNN model on your dataset.
+3. Test the model on new images to observe predictions and results.
 
 Technologies Used
 - Python
